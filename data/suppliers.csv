@@ -1,0 +1,16 @@
+supplier_id,supplier_name,region,category,ppap_status,ppap_approval_date,on_time_delivery_pct,quality_escapes_60d,capacity_confirmed,relationship_years,notes
+MFG-001,Pacific PCB Solutions,APAC,PCBA,Approved,2025-08-15,96.5,0,Yes,8,Strategic supplier
+MFG-002,SiliconBridge Semi,Americas,Semiconductor,Approved,2025-07-28,92.1,1,Yes,5,
+MFG-003,Volta Power Components,EMEA,Semiconductor,Approved,2025-08-02,94.8,0,Yes,6,
+MFG-004,Wireless Modules Inc,APAC,RF/Wireless,Approved,2025-08-20,89.4,2,Yes,3,
+MFG-005,Memex Storage,APAC,Memory,Approved,2025-07-15,97.2,0,Yes,7,
+MFG-006,Sensorium Tech,APAC,Sensors,Conditional,2025-09-10,85.0,1,Pending,2,New supplier under qualification
+MFG-007,EastBay Magnetics,APAC,Sensors,Approved,2025-06-20,78.5,4,Yes,4,4 quality escapes flagged this quarter despite PPAP approved
+MFG-008,Nexus Connectors,APAC,Connectors,Approved,2025-08-08,93.6,0,Yes,9,
+MFG-009,Generic Passives Co,APAC,Passives,Approved,2025-05-10,98.1,0,Yes,10,Commodity
+MFG-010,Precision Frequency,APAC,Passives,Approved,2025-07-05,91.2,1,Yes,5,
+MFG-011,DisplayWorks,APAC,Display,Approved,2025-08-25,87.3,2,Conditional,3,Capacity confirmation pending for Q1 ramp
+MFG-012,PowerCell Industries,APAC,Battery,Approved,2025-07-30,90.8,1,Yes,4,
+MFG-013,FormFlex Plastics,Americas,Mechanical,Pending,,82.4,3,No,1,"Tooling not yet released, PPAP not started"
+MFG-014,LabelPrint Co,Americas,Labels,Approved,2025-08-12,99.0,0,Yes,6,
+MFG-015,BoxCraft Packaging,Americas,Packaging,Approved,2025-09-01,95.5,0,Yes,5,

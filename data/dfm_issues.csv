@@ -1,0 +1,21 @@
+issue_id,severity,category,description,opened_date,status,closed_date,owner,resolution_notes
+DFM-001,P1,Assembly,PCBA solder bridge risk on QFN U12 due to pad spacing,2025-07-15,Closed,2025-08-02,ME-Lead-A,Pad geometry updated rev B; verified on 50-unit DVT build
+DFM-002,P2,Assembly,Connector CON-401 placement too close to enclosure boss,2025-07-20,Closed,2025-08-10,ME-Lead-A,Enclosure boss relocated 1.2mm; verified
+DFM-003,P3,Test,Test point TP12 inaccessible with current fixture,2025-07-25,Closed,2025-08-15,Test-Lead-B,Fixture probe added
+DFM-004,P1,Mechanical,Display lens prone to scratching during assembly,2025-08-01,Closed,2025-08-22,ME-Lead-A,Protective film added to assembly process; verified
+DFM-005,P2,Assembly,IC-101 reflow profile causing inconsistent BGA wetting,2025-08-05,Open,,Process-Eng-C,Investigating reflow oven Zone 4 temperature variance
+DFM-006,P3,Cosmetic,Light pipe shows visible flash from molding,2025-08-08,Closed,2025-08-25,ME-Lead-A,Mold tool polish updated
+DFM-007,P2,Assembly,FPC routing causes strain at connector seating,2025-08-12,Open,,ME-Lead-A,Routing redesign in progress; impacts ENC-802
+DFM-008,P1,Test,ATE program shows 3.2% false fail on Bluetooth RSSI test,2025-08-15,Closed,2025-09-05,Test-Lead-B,Test threshold adjusted
+DFM-009,P3,Cosmetic,Logo print alignment varies by 0.3mm,2025-08-18,Closed,2025-08-30,ME-Lead-A,Within spec; closed as acceptable
+DFM-010,P2,Mechanical,Battery seating tolerance allows 0.5mm Z-axis play,2025-08-22,Open,,ME-Lead-A,Foam thickness change proposed; awaiting vendor sample
+DFM-011,P3,Assembly,Screw torque variation observed at station 4,2025-08-25,Closed,2025-09-08,Process-Eng-C,Torque driver recalibrated; SOP updated
+DFM-012,P2,Test,Yield drop observed on BLE pairing test at high humidity,2025-09-01,Open,,Test-Lead-B,Environmental chamber correlation pending
+DFM-013,P1,Assembly,Sensor SEN-301 yield 91% (target 97%) at PVT pilot,2025-09-05,Open,,Process-Eng-C,Root cause investigation ongoing; possible placement accuracy
+DFM-014,P2,Mechanical,"Housing fit issue at hinge, 2/100 units fail snap test",2025-09-08,Closed,2025-09-22,ME-Lead-A,Closed
+DFM-015,P3,Test,Battery test station occasional comm timeout,2025-09-12,Closed,2025-09-25,Test-Lead-B,Communication cable shielding upgraded
+DFM-016,P2,Cosmetic,Color variation on housing batch 2025-09-15,2025-09-15,Closed,2025-09-28,ME-Lead-A,Within Pantone tolerance per QA; accepted
+DFM-017,P1,Test,SoC firmware download fails on 2.1% of units,2025-09-18,Open,,Test-Lead-B,FW team investigating; possible boot ROM timing issue
+DFM-018,P3,Assembly,Label application bubble defect at 1.5% rate,2025-09-22,Closed,2025-10-05,Process-Eng-C,Application roller pressure adjusted
+DFM-019,P2,Mechanical,Light pipe interference with PCBA component C42,2025-09-25,Closed,2025-10-08,ME-Lead-A,Verified on rebuilt units
+DFM-020,P3,Cosmetic,USB-C port chamfer slightly visible after assembly,2025-10-01,Open,,ME-Lead-A,Cosmetic acceptance criteria under review with PM

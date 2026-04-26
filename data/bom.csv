@@ -1,0 +1,31 @@
+part_number,description,revision,revision_date,lifecycle_status,second_source,supplier_id,unit_cost_usd,lead_time_days,notes
+PCB-001,Main PCBA 8-layer,B,2025-09-12,Production,Yes,MFG-001,42.50,28,Rev-locked
+PCB-002,Sensor Daughterboard,A,2025-08-05,Production,Yes,MFG-001,18.20,21,Rev-locked
+IC-101,SoC ARM Cortex-M7,C,2025-07-22,Production,No,MFG-002,28.75,84,Single source risk noted
+IC-102,Power Management IC,B,2025-08-30,Production,Yes,MFG-003,4.85,42,
+IC-103,Bluetooth LE Module,A,2025-09-01,NPI,Yes,MFG-004,6.90,56,
+MEM-201,DDR4 SDRAM 4Gb,D,2025-08-15,Production,Yes,MFG-005,7.20,35,
+MEM-202,NAND Flash 8Gb,B,2025-09-10,Production,Yes,MFG-005,5.40,42,
+SEN-301,IMU 6-axis,B,2025-09-22,Production,No,MFG-006,3.15,28,Single source
+SEN-302,Pressure Sensor,A,2025-10-01,NPI,No,MFG-006,2.80,35,New supplier qualification in progress
+SEN-303,Hall Effect Sensor,C,2025-08-18,Production,Yes,MFG-007,1.20,21,
+CON-401,USB-C Connector,B,2025-09-05,Production,Yes,MFG-008,0.85,28,
+CON-402,Board-to-Board 40pin,A,2025-09-15,Production,Yes,MFG-008,1.40,21,
+CON-403,FPC 30pin,A,2025-10-12,NPI,No,MFG-008,2.10,42,Active rev change in progress
+PAS-501,MLCC 0402 10uF,A,2025-06-15,Production,Yes,MFG-009,0.02,14,Generic
+PAS-502,MLCC 0201 1uF,A,2025-06-15,Production,Yes,MFG-009,0.01,14,Generic
+PAS-503,Resistor 0402 10k,A,2025-06-15,Production,Yes,MFG-009,0.01,14,Generic
+PAS-504,Inductor 2.2uH,B,2025-08-20,Production,Yes,MFG-010,0.18,28,
+PAS-505,Crystal 32.768kHz,A,2025-07-10,Production,Yes,MFG-010,0.45,35,
+PAS-506,Crystal 24MHz,B,2025-08-01,Production,No,MFG-010,0.65,35,Single source
+DIS-601,OLED 1.3inch,B,2025-09-08,Production,No,MFG-011,8.40,49,Single source long lead
+BAT-701,Li-Po 500mAh,B,2025-08-25,Production,Yes,MFG-012,3.60,42,
+ENC-801,Plastic Housing Top,C,2025-10-18,NPI,No,MFG-013,1.85,21,"Tooling change in progress, rev not locked"
+ENC-802,Plastic Housing Bottom,B,2025-09-30,NPI,No,MFG-013,1.65,21,
+ENC-803,Light Pipe,A,2025-10-15,NPI,Yes,MFG-013,0.40,28,
+LBL-901,Product Label,A,2025-09-25,Production,Yes,MFG-014,0.08,14,
+LBL-902,Regulatory Label,A,2025-09-25,Production,Yes,MFG-014,0.05,14,
+PKG-001,Retail Box,B,2025-10-05,Production,Yes,MFG-015,0.95,28,
+PKG-002,Foam Insert,A,2025-10-05,Production,Yes,MFG-015,0.40,21,
+ACC-001,USB-C Cable,A,2025-09-12,Production,Yes,MFG-008,1.20,28,
+ACC-002,Quick Start Guide,A,2025-09-25,Production,Yes,MFG-014,0.15,14,

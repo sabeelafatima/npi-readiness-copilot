@@ -3,7 +3,7 @@
 > An AI-augmented phase-gate readiness assessment tool for hardware New Product Introduction programs.
 
 **Status**: v1 prototype, active build
-**Author**: Sabeela [Last Name]
+**Author**: Sabeela Fatima
 **Stack**: Python, Anthropic Claude API, Streamlit, Power BI
 
 ---
@@ -186,4 +186,4 @@ MIT. Synthetic data and prompt templates are free to adapt. If you build somethi
 
 ---
 
-**Built by Sabeela [Last Name]** | [LinkedIn](https://linkedin.com/in/...) | [Portfolio](https://...)
+**Built by Sabeela Fatima** | [LinkedIn](https://linkedin.com/in/sabeela-fatima) | [Portfolio](https://...)
